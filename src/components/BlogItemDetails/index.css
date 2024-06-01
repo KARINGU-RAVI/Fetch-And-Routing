@@ -1,0 +1,17 @@
+.blog-info {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+}
+.author-details {
+  display: flex;
+}
+.author-pic {
+  height: 50px;
+  border-radius: 50px;
+}
+.blog-image{
+  height: 400px;
+}
